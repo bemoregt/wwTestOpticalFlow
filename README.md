@@ -6,10 +6,11 @@ OF Test using ofxCv
 ### Dependency
 - OpenFrameworks 0.10.1
 - ofxCv
+- ofxOpenCv
 - ofxGUI
 - XCode 10.12.x
 - OSX Mojave
 
 ### Next Plan
-- ROI only OF
-- OF signal plot
+- ROI only Optical Flow.
+- Optical Flow's realtime 1D signal plot in ROI.
