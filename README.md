@@ -1,7 +1,7 @@
 # ofxTestOpticalFlow
 OF Test using ofxCv
 
-![example]( https://github.com/bemoregt/ofxDeblurness/blob/master/test1.png "Example Screenshot")
+![example]( https://github.com/bemoregt/ofxTestOpticalFlow/blob/master/TestOF.png "Example Screenshot")
 
 ### Dependency
 - OpenFrameworks 0.10.1
